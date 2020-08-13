@@ -1,4 +1,6 @@
-### Hi there 👋
+### hey there, im dylan
+### you probably met me somwhere on the internet before
+### pronouns: he/him
 
 <!--
 **Narpzy/narpzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
